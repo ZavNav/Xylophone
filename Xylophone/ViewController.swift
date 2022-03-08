@@ -9,12 +9,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    //test
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("test text to check test for test")
     }
 
-
+    @IBAction func keyPressed(_ sender: UIButton) {
+        
+    }
+    
 }
 
